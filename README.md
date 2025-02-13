@@ -7,6 +7,7 @@ Esta es una API de autenticación construida con **NestJS**, que utiliza **JWT (
 ## **📌 Características**
 ✅ Autenticación con **JWT**  
 ✅ Protección de rutas con **Guards**  
+✅ Uso de **bcrypt** para encriptar contraseñas  
 ✅ **NestJS modular** con estructura organizada  
 
 ---
